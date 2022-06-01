@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url('./background.jpg') bottom center;
+  background: url('../src/assets/background.jpg') bottom center;
   background-size: cover;
   font-family: 'Encode Sans', sans-serif;
   font-family: 'Montserrat', sans-serif;
