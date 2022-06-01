@@ -4,7 +4,7 @@
 
 I've learned some key events as well as playing audio, and transitionend events.
 
-![javascript-drum-kit](<![javascript-drum-kit](https://user-images.githubusercontent.com/64751892/171516221-8093940f-5652-42e2-a834-35edfdeb9660.gif)>)
+![javascript-drum-kit](https://user-images.githubusercontent.com/64751892/171517173-9515d19c-52e9-42fd-b759-4842a117279f.gif)
 
 ### Play the ultimate Drum Kit.
 
